@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/customers-api-gateway.iml" filepath="$PROJECT_DIR$/.idea/customers-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldFunction/customersapi.iml" filepath="$PROJECT_DIR$/HelloWorldFunction/customersapi.iml" />
+    </modules>
+  </component>
+</project>
